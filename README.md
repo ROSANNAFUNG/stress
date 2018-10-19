@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>stress</title>
+	<title>stress staff</title>
 
 	<link rel="stylesheet" type="text/css" href="app.css">
 
