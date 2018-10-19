@@ -1,9 +1,7 @@
-# stress
-
 <!DOCTYPE html>
 <html>
 <head>
-	<title>About Me</title>
+	<title>stress</title>
 
 	<link rel="stylesheet" type="text/css" href="app.css">
 
