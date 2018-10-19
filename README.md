@@ -10,7 +10,7 @@
 		}*/
 
 		h1{
-			color: blue;
+			color: red;
 		}
 
 		li {
@@ -20,7 +20,7 @@
 </head>
 <body>
 <h1>DO YOU WANT TO BE LESS STRESSED?</h1>
-<h1>Instagram: Rozayfung</h1>
+<h1>F0110W M3 INSTAGRAM: ROZAYFUNG</h1>
 
 
 <h4>My Hobbies:</h4>
