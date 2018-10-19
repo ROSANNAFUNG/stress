@@ -1,5 +1,16 @@
 <html>
 <head>
+	
+  <svg width="100%" height="100%">
+    <rect width="100%" height="100%" fill="red" />
+    <circle cx="100%" cy="100%" r="150" fill="blue" stroke="black" />
+    <polygon points="120,0 240,225 0,225" fill="green"/>
+    <text x="50" y="100" font-family="Verdana" font-size="55"
+          fill="white" stroke="black" stroke-width="2">
+            Hello!
+    </text>
+  </svg>
+  
 	<title>stress staff</title>
 
 	<link rel="stylesheet" type="text/css" href="app.css">
@@ -31,14 +42,6 @@
 </ul>
 
 
-
-<svg version="1.1"
-     baseProfile="full"
-     width="300" height="200"
-     xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="black" />
-  <circle cx="150" cy="100" r="90" fill="blue" />
-</svg>
 
 </body>
 </html>
