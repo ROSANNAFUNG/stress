@@ -1,7 +1,7 @@
 <html>
 <head>
 	
-  <svg width="100%" height="100%">
+  <svg width="500%" height="500%">
     <rect width="100%" height="100%" fill="#c6c6c6" />
     <circle cx="100%" cy="100%" r="150" fill="#c6c6c6"/>
     <polygon points="120,0 240,225 0,225" fill="#FBFCFC"/>
