@@ -34,6 +34,7 @@
 <h1>How is work today?</h1>
 
 <img src="corgi.jpg" alt="dog photo">
+<img src="http://whsgoldenarrow.com/wp-content/uploads/2018/05/corgi.jpg">
 
 <h4>My Hobbies:</h4>
 <ul>
