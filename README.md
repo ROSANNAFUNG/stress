@@ -7,11 +7,11 @@
     <polygon points="120,0 240,225 0,225" fill="#FBFCFC"/>
     <text x="50" y="100" font-family="Verdana" font-size="55"
           fill="#ba160c">
-            STRESSTAFF FAM
+            Wenna You're cool 
     </text>
   </svg>
   
-	<title>stress staff</title>
+	<title>hello</title>
 
 	<link rel="stylesheet" type="text/css" href="app.css">
 
@@ -30,15 +30,14 @@
 	</style> -->
 </head>
 <body>
-<h1>DO YOU WANT TO BE LESS STRESSED?</h1>
-<h1>F0110W M3 INSTAGRAM: ROZAYFUNG</h1>
+<h1>How is work today?</h1>
+
 
 
 <h4>My Hobbies:</h4>
 <ul>
-	<li>Being Lazy</li>
-	<li>Pretending to be smart</li>
-	<li>Going to every shoe sale</li>
+	<li>trying to work</li>
+	<li>eating snacks</li>
 </ul>
 
 
