@@ -33,7 +33,7 @@
 <body>
 <h1>How is work today?</h1>
 
-<img src="corgi.jpg"
+<img src="corgi.jpg" alt="dog photo">
 
 <h4>My Hobbies:</h4>
 <ul>
