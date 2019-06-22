@@ -7,7 +7,7 @@
     <polygon points="120,0 240,225 0,225" fill="#FBFCFC"/>
     <text x="50" y="100" font-family="Verdana" font-size="55"
           fill="#ba160c">
-            Wenna You're cool 
+           You ask so many questions
     </text>
   </svg>
   
