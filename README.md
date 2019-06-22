@@ -7,7 +7,7 @@
     <polygon points="120,0 240,225 0,225" fill="#FBFCFC"/>
     <text x="50" y="100" font-family="Verdana" font-size="55"
           fill="#ba160c">
-           All questions are OK
+           All questions are OK, please ask me Mr. Harry the dog
     </text>
 	
   </svg>
@@ -41,11 +41,13 @@
 
 <h4>My Hobbies:</h4>
 <ul>
-	<li>trying to work</li>
+	<li>pretend to be cute</li>
 	<li>eating snacks</li>
+	<li>waiting for my human to get home</li>
+	<li>stop working overtime mom!</li>
 </ul>
 
-<h1>What are your hobbies Wenna?</h1>
+
 
 </body>
 </html>
