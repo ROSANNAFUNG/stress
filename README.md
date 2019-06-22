@@ -9,6 +9,7 @@
           fill="#ba160c">
            You ask so many questions
     </text>
+	
   </svg>
   
 	<title>hello</title>
@@ -32,7 +33,7 @@
 <body>
 <h1>How is work today?</h1>
 
-
+<img src="corgi.jpg"
 
 <h4>My Hobbies:</h4>
 <ul>
